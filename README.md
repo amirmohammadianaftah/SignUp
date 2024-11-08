@@ -4,7 +4,6 @@
 
   - [Demo Project](https://amirmohammadianaftah.github.io/SignUp/)
   - 
-  - 
 - Developed by Amir Mohammadian
 - Created - 2024-11-08
 - 💻 Technologies Used - Html , css , JS
